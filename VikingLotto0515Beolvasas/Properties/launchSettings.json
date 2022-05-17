@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VikingLotto0515Beolvasas": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Programs\\Microsoft Visual Studio Projects\\zPractice\\VikingLottoSzamok.csv\""
+    }
+  }
+}
